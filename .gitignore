@@ -1,0 +1,47 @@
+# =========================
+# Sistem Operasi
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Editor / IDE
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Log Files
+# =========================
+*.log
+
+# =========================
+# Dependency & Build Tools
+# (jika suatu saat menggunakan Node.js)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Build Output
+# (misalnya jika Tailwind di-build secara lokal)
+# =========================
+dist/
+build/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Temporary Files
+# =========================
+.tmp/
+.cache/
