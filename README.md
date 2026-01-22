@@ -13,7 +13,6 @@ Website ini dapat dimanfaatkan sebagai:
 - Landing page statis
 
 ## Teknologi yang Digunakan
-
 - HTML5  
 - CSS3  
 - JavaScript  
@@ -23,7 +22,6 @@ Website ini dapat dimanfaatkan sebagai:
 - GitHub Pages  
 
 ## Struktur Folder
-
 ```text
 .
 ├── index.html
@@ -70,3 +68,12 @@ https://s21710491.github.io
 * Integrasi dilakukan melalui CDN sehingga tidak memerlukan build tool tambahan.
 * Urutan pemanggilan CSS diperhatikan untuk meminimalkan konflik gaya.
 Pendekatan ini sesuai untuk proyek kecil hingga menengah yang membutuhkan stabilitas, kesederhanaan, dan kemudahan pemeliharaan.
+
+## Tujuan Akademik
+Proyek ini dikembangkan sebagai bagian dari pembelajaran
+pengelolaan repository Git, deployment GitHub Pages,
+dan pengembangan website statis.
+
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
